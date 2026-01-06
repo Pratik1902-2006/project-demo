@@ -3,8 +3,15 @@ This is my First Git Repository.
 <br>
 Author - Pratik Verma
 
-# Teacher
+# Manager
+<<<<<<< HEAD
 Nitu shah
 
+# Employee
+Priti yadav
+=======
+Pratik Verma
+
 # Student
-Priti yadav.
+Prakash
+>>>>>>> 3954072dbe78d1ba5d39df96fd00956be6f2e8a6
